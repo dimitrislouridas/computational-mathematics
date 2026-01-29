@@ -14,7 +14,6 @@ with emphasis on correctness, convergence behavior and clean algorithmic structu
 - Monte Carlo simulation methods
 - Interpolation techniques
 
-
 ## Key Features
 - Modular Python implementations of numerical algorithms
 - Configurable parameters (tolerance, iterations, step size)
@@ -31,4 +30,3 @@ with emphasis on correctness, convergence behavior and clean algorithmic structu
 - Structuring scientific Python code in a clear and maintainable way
 - Validating numerical solutions through visualization and experimentation
 - Bridging mathematical concepts with practical software implementations
-
